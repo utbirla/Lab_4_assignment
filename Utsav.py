@@ -1,3 +1,4 @@
+## Add a line
 flight_table = [
     ("P1", "VSCode", 100, "MID"),
     ("P23", "Eclipse", 234, "MID"),
